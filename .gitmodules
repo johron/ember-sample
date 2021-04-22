@@ -1,0 +1,3 @@
+[submodule "external/ember"]
+	path = external/ember
+	url = https://github.com/johron/ember
